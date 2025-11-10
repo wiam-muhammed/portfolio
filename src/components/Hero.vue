@@ -7,7 +7,7 @@ const name = appConfig.userName
 
 let typedInstance = null
 
-const titles = ['Translator', 'Subtitler', 'Proofreader', 'Localization Specialist']
+const titles = ['Translator', 'Interpreter', 'Subtitler', 'Proofreader', 'Localization Specialist']
 
 onMounted(() => {
   const el = document.querySelector('.typed')

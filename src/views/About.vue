@@ -5,8 +5,7 @@ import AboutSection from "../components/AboutSection.vue";
 
 <template>
   <PageTitle title="About">
-    Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio
-    sint voluptas consequatur ut a odio voluptatem.
+    I am a professional translator fluent in English, French, and Arabic. I provide accurate and culturally sensitive translations across literary, academic, legal, and technical fields. My work is guided by precision, clarity, and a deep respect for the meaning and tone of each text. I am committed to delivering high-quality translations that convey the author’s intent with professionalism and care.
   </PageTitle>
 
   <AboutSection />

@@ -5,8 +5,8 @@ import PortfolioSection from "../components/PortfolioSection.vue";
 
 <template>
   <PageTitle title="Portfolio">
-    Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio
-    sint voluptas consequatur ut a odio voluptatem.
+    I offer professional translation services in English, French, and Arabic, covering literary, academic, legal, and
+    technical fields. Each project is handled with precision, cultural awareness, and respect for the author’s intent.
   </PageTitle>
 
   <PortfolioSection />

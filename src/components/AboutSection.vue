@@ -10,13 +10,13 @@ const personalInfo = [
   { label: "Services", value: "Translation, Subtitling, Proofreading" },
   { label: "Tools", value: "Trados, MemoQ, Smartcat" },
   { label: "Freelance", value: "Available" },
-  { label: "Work Type", value: "Remote" },
+  { label: "Work Type", value: "Remote / Contract" },
 ];
 
 const half = Math.ceil(personalInfo.length / 2);
 const leftCol = personalInfo.slice(0, half);
 const rightCol = personalInfo.slice(half);
-const cvUrl = "src/assets/pdf/Khaled_Mohamed_cv.pdf";
+const cvUrl = "src/assets/pdf/Weam-Muhammed-CV.pdf";
 </script>
 
 <template>
