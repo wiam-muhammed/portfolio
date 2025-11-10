@@ -1,44 +1,32 @@
 [
   {
     "type": "video",
-    "title": "Vue 3 Crash Course",
-    "description": "Learn Vue in 30 mins",
-    "url": "https://www.youtube.com/watch?v=Q1po1TL8YqY"
+    "title": "Mobile clinics continue saving lives of children",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=Myp4Vc2t8UU"
   },
   {
     "type": "video",
-    "title": "Vue 3 Crash Course",
-    "description": "Learn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 mins",
-    "url": "https://www.youtube.com/watch?v=Ffa5Ps2sj1Y"
+    "title": "No bullets. One rose for each child",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=G60DbqwJWj0"
+  },
+  {
+    "type": "video",
+    "title": "Eman's Story",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=pq0dcQcuRJg"
   },
   {
     "type": "pdf",
-    "title": "Full Stack Roadmap",
-    "description": "PDF Guide for Developers",
-    "url": "https://drive.google.com/file/d/1HhDdRaU7v8iOxEHdLowO__Fa_wd_8JrU/view?usp=drive_link"
-  },
-  {
-    "type": "pdf",
-    "title": "Full Stack Roadmap",
-    "description": "PDF Guide for Developers",
-    "url": "https://drive.google.com/file/d/1vxGl-QkSYW3iSSR0k9uT7-ifj6vhf-AV/view?usp=drive_link"
-  },
-  {
-    "type": "video",
-    "title": "Vue 3 Crash Course",
-    "description": "Learn Vue in 30 mins",
-    "url": "https://www.youtube.com/watch?v=Q1po1TL8YqY"
-  },
-  {
-    "type": "video",
-    "title": "Vue 3 Crash Course",
-    "description": "Learn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 mins",
-    "url": "https://www.youtube.com/watch?v=J8ZCVeaUprw"
+    "title": "CHOLERA ORAL REHYDRATION Ismail",
+    "description": "",
+    "url": "https://drive.google.com/file/d/1gteU3dVAT-vXaG7gQZlHSk4gl4at1i5E/view?usp=drive_link"
   },
   {
     "type": "website",
-    "title": "Vue 3 Crash Course website",
-    "description": "Learn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 minsLearn Vue in 30 mins",
-    "url": "http://vuejs.org/"
+    "title": "Inno Supps",
+    "description": "",
+    "url": "https://www.innosupps.com/?srsltid=AfmBOoqqi5iq3fe09ViMUO19nt5UBH-e5a3mAIjmrBehSfRJtQL91mc2"
   }
 ]
