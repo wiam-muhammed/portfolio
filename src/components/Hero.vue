@@ -35,7 +35,7 @@ const socialLinks = appConfig.socials;
 
 <template>
   <section id="hero" class="hero section dark-background">
-\    <img src="../assets/images/hero.jpg" alt="" data-aos="fade-in" />
+    <img src="../assets/images/hero.jpg" alt="" data-aos="fade-in" />
 
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
       <h2>{{ name }}</h2>
@@ -47,13 +47,16 @@ const socialLinks = appConfig.socials;
       </p>
 
       <div class="social-links">
-        <a 
-          v-for="link in socialLinks" 
-          :key="link.icon" 
-          :href="link.url"
-          target="_blank"
-        >
+        <a v-for="link in socialLinks" :key="link.icon" :href="link.url" target="_blank">
           <i :class="link.icon"></i>
+        </a>
+
+        <a href="mailto:weam.mustafa01@gmail.com" target="_blank">
+          <i class="bi bi-envelope-fill"></i>
+        </a>
+
+        <a href="https://wa.me/201100374501" target="_blank">
+          <i class="bi bi-whatsapp"></i>
         </a>
       </div>
     </div>

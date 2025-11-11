@@ -2,7 +2,7 @@ export default {
   siteName: "WM",
   siteLogo: "",
 
-  userName: "Wiam Muhammed",
+  userName: "Weam Muhammed",
   userTitle: "Translator & Language Specialist",
 
   contacts: {

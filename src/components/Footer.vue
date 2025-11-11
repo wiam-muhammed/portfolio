@@ -16,13 +16,16 @@ const socialLinks = appConfig.socials;
       <p>{{ footerMessage }}</p>
 
       <div class="social-links d-flex justify-content-center">
-        <a
-          v-for="link in socialLinks"
-          :key="link.icon"
-          :href="link.url"
-          target="_blank"
-        >
+        <a v-for="link in socialLinks" :key="link.icon" :href="link.url" target="_blank">
           <i :class="link.icon"></i>
+        </a>
+
+        <a href="mailto:weam.mustafa01@gmail.com" target="_blank">
+          <i class="bi bi-envelope-fill"></i>
+        </a>
+
+        <a href="https://wa.me/201100374501" target="_blank">
+          <i class="bi bi-whatsapp"></i>
         </a>
       </div>
 
