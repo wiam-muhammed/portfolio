@@ -7,7 +7,7 @@ const name = appConfig.userName
 
 let typedInstance = null
 
-const titles = ['Translator', 'Interpreter', 'Subtitler', 'Proofreader', 'Localization Specialist']
+const titles = ['a Translator', 'an Interpreter', 'a Subtitler', 'a Proofreader', 'a Localization Specialist']
 
 onMounted(() => {
   const el = document.querySelector('.typed')
@@ -29,13 +29,12 @@ onBeforeUnmount(() => {
     typedInstance = null
   }
 })
-
 const socialLinks = appConfig.socials;
 </script>
 
 <template>
   <section id="hero" class="hero section dark-background">
-    <img src="../assets/images/hero.jpg" alt="" data-aos="fade-in" />
+    <img src="../assets/images/blue light.jpg" alt="" data-aos="fade-in" />
 
     <div class="container" data-aos="zoom-out" data-aos-delay="100">
       <h2>{{ name }}</h2>
