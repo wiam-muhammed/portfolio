@@ -22,7 +22,7 @@ const rightCol = personalInfo.slice(half);
 <template>
   <section id="about" class="about section">
     <div class="container text-center mb-4" data-aos="fade-up">
-      <a :href="cvUrl" download class="btn-download-cv">
+      <a :href="cvUrl" download="Weam_Mustafa_CV" class="btn-download-cv">
         <i class="bi bi-file-earmark-arrow-down"></i> Download CV as a PDF
       </a>
     </div>
