@@ -1,5 +1,6 @@
 <script setup>
 import appConfig from "../config/appConfig";
+import cvUrl from "../assets/pdf/Weam_Mustafa_CV.pdf";
 const title = appConfig.userTitle + ".";
 
 const personalInfo = [
@@ -16,7 +17,6 @@ const personalInfo = [
 const half = Math.ceil(personalInfo.length / 2);
 const leftCol = personalInfo.slice(0, half);
 const rightCol = personalInfo.slice(half);
-const cvUrl = "src/assets/pdf/Weam_Mustafa_CV.pdf";
 </script>
 
 <template>
