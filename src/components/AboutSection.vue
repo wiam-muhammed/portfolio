@@ -16,7 +16,7 @@ const personalInfo = [
 const half = Math.ceil(personalInfo.length / 2);
 const leftCol = personalInfo.slice(0, half);
 const rightCol = personalInfo.slice(half);
-const cvUrl = "src/assets/pdf/Weam-Muhammed-CV.pdf";
+const cvUrl = "src/assets/pdf/Weam_Mustafa_CV.pdf";
 </script>
 
 <template>
