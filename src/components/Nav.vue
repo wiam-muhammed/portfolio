@@ -15,7 +15,7 @@ const navLinks = [
     <div
       class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between"
     >
-   <router-link to="/" class="logo">
+<router-link to="/" class="logo d-flex align-items-center">
   <img v-if="appConfig.siteLogo" :src="appConfig.siteLogo" alt="Weam Mustafa Logo" class="logo-img" />
   <h1 v-else class="sitename">{{ siteName }}</h1>
 </router-link>

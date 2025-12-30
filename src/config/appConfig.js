@@ -1,6 +1,6 @@
 export default {
   siteName: "WM",
-  siteLogo: "public/logo.svg",
+  siteLogo: "/logo.svg",
 
   userName: "Hi, I'm Weam.",
   userTitle: "Translator & Language Specialist",
