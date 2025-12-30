@@ -460,6 +460,7 @@ h6 {
   width: auto;     /* يحافظ على نسبة الصورة */
   margin-bottom: 15px; /* مسافة تحت الصورة */
 }
+
 .footer-logo-small img {
   height: 100px;    /* حجم أصغر للـ copyright */
   width: auto;
