@@ -448,8 +448,8 @@ h6 {
 # Global Footer
 --------------------------------------------------------------*/
 .footer {
-  color: var(--default-color);
-  background-color: var(--background-color);
+  color: #ffffff;              /* لون النص أبيض */
+  background-color: #000000;   /* الفوتر أسود */
   font-size: 14px;
   text-align: center;
   padding: 30px 0;
