@@ -162,7 +162,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 32px;
+  max-height: 100px;
   margin-right: 8px;
 }
 
@@ -455,7 +455,15 @@ h6 {
   padding: 30px 0;
   position: relative;
 }
-
+.footer-logo img {
+  height: 200px;    /* حجم مناسب وواضح */
+  width: auto;     /* يحافظ على نسبة الصورة */
+  margin-bottom: 15px; /* مسافة تحت الصورة */
+}
+.footer-logo-small img {
+  height: 100px;    /* حجم أصغر للـ copyright */
+  width: auto;
+}
 .footer h3 {
   font-size: 36px;
   font-weight: 700;

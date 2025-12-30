@@ -1,6 +1,5 @@
 <script setup>
 import appConfig from '../config/appConfig';
-
 const siteName = appConfig.siteName;
 const footerMessage = 'Thank you for visiting!';
 const currentYear = new Date().getFullYear();
@@ -11,7 +10,10 @@ const socialLinks = appConfig.socials;
   <footer id="footer" class="footer dark-background">
     <div class="container text-center">
 
-      <h3 class="sitename">{{ siteName }}</h3>
+      <div class="footer-logo d-flex justify-content-center mb-2">
+  <img v-if="appConfig.siteLogo" :src="appConfig.siteLogo" alt="Weam Mustafa Logo" class="footer-logo-img" />
+  <h3 v-else class="sitename">{{ siteName }}</h3>
+</div>
 
       <p>{{ footerMessage }}</p>
 
